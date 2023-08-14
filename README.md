@@ -1,5 +1,4 @@
-
- 👁‍🗨 Base Info:
+👁‍🗨 Basic information:
 --------------------------------------------------------------------------------------
 
 - Create a repository named after your GitHub username.
@@ -8,7 +7,7 @@
 
 
 
- 🔮 Github Stats:
+📈 Statistics:
 --------------------------------------------------------------------------------------
 
 <div align="center">
@@ -16,20 +15,20 @@
 <!-- _______________________________________________________________________
                                                                            |
                                                                            |
-                                                                           V  (your username here) -->
+                                                (your username goes here)  V  (your username goes here) -->
 <img width=58% src="https://github-readme-streak-stats.herokuapp.com/?user=alexeylepov&theme=gruvbox&hide_border=true"/>
 
 <!-- ____________________________________________________________________________________________________
                                                                                                         |
                                                                                                         |
-                                                                                                        V  (your username here) -->
+                                                                             (your username goes here)  V  (your username goes here) -->
 <img width=39% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexeylepov&theme=gruvbox"/>
 
 </div>
 
 
 
- 🎢 Activity:
+🎯 Activity:
 --------------------------------------------------------------------------------------
 
 <div align="center">
@@ -37,7 +36,7 @@
 <!-- _________________________________________________________________________________________________
                                                                                                      |
                                                                                                      |
-                                                                                                     V  (your username here) -->
+                                                                          (your username goes here)  V  (your username goes here) -->
 <img width=98% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexeylepov&theme=gruvbox"/>
 
 </div>
