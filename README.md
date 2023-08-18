@@ -15,12 +15,12 @@
 <!-- _______________________________________________________________________
                                                                            |
                                                 (your username goes here)  V  (your username goes here) -->
-<img width=58% src="https://github-readme-streak-stats.herokuapp.com/?user=41-exe&theme=gruvbox&hide_border=true"/>
+<img width=58% src="https://github-readme-streak-stats.herokuapp.com/?user=a13xe&theme=gruvbox&hide_border=true"/>
 
 <!-- ____________________________________________________________________________________________________
                                                                                                         |
                                                                              (your username goes here)  V  (your username goes here) -->
-<img width=39% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=41-exe&theme=gruvbox"/>
+<img width=39% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a13xe&theme=gruvbox"/>
 
 </div>
 
@@ -34,6 +34,6 @@
 <!-- _________________________________________________________________________________________________
                                                                                                      |
                                                                           (your username goes here)  V  (your username goes here) -->
-<img width=98% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=41-exe&theme=gruvbox"/>
+<img width=98% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a13xe&theme=gruvbox"/>
 
 </div>
