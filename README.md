@@ -2,17 +2,46 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-- Create a repository named after your GitHub username.
-- Utilize this template.
+- Create a repository named after your GitHub username and create `README.md` file.
+- Copy this template, replace the `user` parameters with your username, and delete the comments.
 - Explore more options at [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) and [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards).
 
 
-:bar_chart: Statistics:
+
+:trophy: Trophies:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<div align="center">
 
+<div align="center">
+ <!--===================================
+ dark-mode 
+ ===================================-->
+ 
+ <a href="https://github.com/a13xe/github-readme-activity-graph#gh-dark-mode-only">
+  <!--                                                                                  |
+                                                             (your username goes here)  V  (your username goes here) -->
+  <img align="center" width=96% src="https://github-profile-trophy.vercel.app/?username=a13xe&theme=gruvbox&no-frame=True&row=1&&margin-w=5"> 
+ </a>
+
+ <!--===================================
+ light-mode 
+ ===================================-->
+ <a href="https://github.com/a13xe/github-readme-activity-graph#gh-light-mode-only">
+  <!--                                                                                  |
+                                                             (your username goes here)  V  (your username goes here) -->
+  <img align="center" width=96% src="https://github-profile-trophy.vercel.app/?username=a13xe&theme=flat&no-frame=True&row=1&&margin-w=5"> 
+ </a>
+</div>
+
+
+
+:balance_scale: Statistics:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+<div align="center">
  <!--===================================
  dark-mode 
  ===================================-->
@@ -36,16 +65,16 @@
                                                                                 (your username goes here)  V  (your username goes here) -->
   <img width=39% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a13xe&theme=moltack"/>
  </a>
-  
 </div>
+
 
 
 :dart: Activity:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<div align="center">
 
+<div align="center">
  <!--===================================
  dark-mode 
  ===================================-->
@@ -63,5 +92,4 @@
                                                                              (your username goes here)  V  (your username goes here) -->
   <img width=98% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a13xe&theme=moltack"/>
  </a>
-
 </div>
