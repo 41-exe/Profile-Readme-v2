@@ -4,7 +4,7 @@
 
 - Create a repository named after your GitHub username and create `README.md` file.
 - Copy this template, replace the `user` parameters with your username, and delete the comments.
-- Explore more options at [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) and [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards).
+- Explore more options at [readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) and [profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) and [profile-trophies](https://github.com/ryo-ma/github-profile-trophy).
 
 
 
@@ -21,7 +21,7 @@
  <a href="https://github.com/a13xe/github-readme-activity-graph#gh-dark-mode-only">
   <!--                                                                                  |
                                                              (your username goes here)  V  (your username goes here) -->
-  <img align="center" width=96% src="https://github-profile-trophy.vercel.app/?username=a13xe&theme=gruvbox&no-frame=True&row=1&&margin-w=5"> 
+  <img alt="" align="center" width=96% src="https://github-profile-trophy.vercel.app/?username=a13xe&theme=gruvbox&no-frame=True&row=1&&margin-w=5"> 
  </a>
 
  <!--===================================
@@ -30,7 +30,7 @@
  <a href="https://github.com/a13xe/github-readme-activity-graph#gh-light-mode-only">
   <!--                                                                                  |
                                                              (your username goes here)  V  (your username goes here) -->
-  <img align="center" width=96% src="https://github-profile-trophy.vercel.app/?username=a13xe&theme=flat&no-frame=True&row=1&&margin-w=5"> 
+  <img alt="" align="center" width=96% src="https://github-profile-trophy.vercel.app/?username=a13xe&theme=flat&no-frame=True&row=1&&margin-w=5"> 
  </a>
 </div>
 
@@ -48,10 +48,10 @@
  <a href="https://github.com/a13xe/github-readme-activity-graph#gh-dark-mode-only">
   <!--                                                                       |
                                                   (your username goes here)  V  (your username goes here) -->
-  <img width=58% src="https://github-readme-streak-stats.herokuapp.com/?user=a13xe&theme=gruvbox&hide_border=true"/>
+  <img alt="" width=58% src="https://github-readme-streak-stats.herokuapp.com/?user=a13xe&theme=gruvbox&hide_border=true"/>
   <!--                                                                                                     |
                                                                                 (your username goes here)  V  (your username goes here) -->
-  <img width=39% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a13xe&theme=gruvbox"/>
+  <img alt="" width=39% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a13xe&theme=gruvbox"/>
  </a>
  
  <!--===================================
@@ -60,10 +60,10 @@
  <a href="https://github.com/a13xe/github-readme-activity-graph#gh-light-mode-only">
   <!--                                                                       |
                                                   (your username goes here)  V  (your username goes here) -->
-  <img width=58% src="https://github-readme-streak-stats.herokuapp.com/?user=a13xe&theme=moltack&hide_border=true"/>
+  <img alt="" width=58% src="https://github-readme-streak-stats.herokuapp.com/?user=a13xe&theme=moltack&hide_border=true"/>
   <!--                                                                                                     |
                                                                                 (your username goes here)  V  (your username goes here) -->
-  <img width=39% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a13xe&theme=moltack"/>
+  <img alt="" width=39% src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a13xe&theme=moltack"/>
  </a>
 </div>
 
@@ -81,7 +81,7 @@
  <a href="https://github.com/a13xe/github-readme-activity-graph#gh-dark-mode-only">  
   <!--                                                                                                  |
                                                                              (your username goes here)  V  (your username goes here) -->
-  <img width=98% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a13xe&theme=gruvbox"/>
+  <img alt="" width=98% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a13xe&theme=gruvbox"/>
  </a>
  
  <!--===================================
@@ -90,6 +90,6 @@
  <a href="https://github.com/a13xe/github-readme-activity-graph#gh-light-mode-only">   
   <!--                                                                                                  |
                                                                              (your username goes here)  V  (your username goes here) -->
-  <img width=98% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a13xe&theme=moltack"/>
+  <img alt="" width=98% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a13xe&theme=moltack"/>
  </a>
 </div>
